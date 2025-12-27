@@ -1,3 +1,8 @@
+[Home](/)
+[About](/about)
+
+---
+
 # Systemic Effect
 
 The site collects models and working 
