@@ -1,5 +1,5 @@
-[Home](/)
-[Working notes]({working-notes)
+[Home](/) ·
+[Working notes]({working-notes) ·
 [About](/about)
 
 ---
