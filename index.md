@@ -1,5 +1,5 @@
 [Home](/) ·
-[Working notes](/working-notes/index) ·
+[Working notes](working-notes/index) ·
 [About](/about)
 
 ---
