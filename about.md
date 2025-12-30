@@ -1,3 +1,9 @@
+[Home](/) ·
+[Working notes](working-notes/index) ·
+[About](/about)
+
+---
+
 # About
 
 This site collects independent working
