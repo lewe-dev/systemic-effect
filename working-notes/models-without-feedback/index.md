@@ -7,7 +7,7 @@
 # Models Without Feedback  
 ## Why They Explain States but Fail at Development and Prediction
 
-*Working note. Version 1.0.*
+*Working note · Version 1.0 · December 2025*
 
 ---
 
@@ -133,6 +133,6 @@ A concise formulation suitable for citation:
 ---
 
 **Citation (suggested):**  
-A. Wende, *Models Without Feedback: Why They Explain States but Fail at Development and Prediction*, Working note v1.0, December 2025.  
+Wende, A. (2025), *Models Without Feedback: Why They Explain States but Fail at Development and Prediction*, Working note v1.0.
 https://systemic-effect/working-notes/models-without-feedback/
 
