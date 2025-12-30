@@ -129,3 +129,10 @@ Typical indicators:
 A concise formulation suitable for citation:
 
 > **Without feedback, models explain states; with feedback, they explain development. Predictive capacity begins where a model captures the system’s reaction to itself.**
+
+---
+
+**Citation (suggested):**  
+A. Wende, *Models Without Feedback: Why They Explain States but Fail at Development and Prediction*, Working note v1.0, December 2025.  
+https://systemic-effect/working-notes/models-without-feedback/
+
