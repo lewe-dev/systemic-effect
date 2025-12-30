@@ -12,3 +12,7 @@ and effects.
 
 The focus is analytical, not 
 prescriptive.
+
+---
+
+This site is maintained by Alexander Wende.
