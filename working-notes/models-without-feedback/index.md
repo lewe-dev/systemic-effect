@@ -1,6 +1,7 @@
----
-title: "Models Without Feedback: Why They Explain States but Fail at Development and Prediction"
-layout: default
+[Home](/) ·
+[Working notes](working-notes/index) ·
+[About](/about)
+
 ---
 
 # Models Without Feedback  
