@@ -146,5 +146,5 @@ Making the relationship between question type and model structure explicit would
 
 **Citation (suggested):**  
 Wende, A. (2025), *Models Without Feedback: Why They Explain States but Fail at Development and Prediction*, Working note v1.0.
-https://systemic-effect/working-notes/models-without-feedback/
+https://systemic-effect.org/working-notes/models-without-feedback/
 
