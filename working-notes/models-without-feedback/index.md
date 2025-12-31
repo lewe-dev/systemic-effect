@@ -132,6 +132,18 @@ A concise formulation suitable for citation:
 
 ---
 
+## 9. On the Use of Models
+
+In many disciplines, substantial effort is devoted to teaching how models are constructed, estimated, and formally analyzed. Far less attention is paid to how models are to be used—and, crucially, for which classes of questions they are structurally suitable.
+
+As a result, the distinction between state analysis, comparative statics, development, prediction, and steering often remains implicit. Models designed to analyze states under fixed boundary conditions are then tacitly extended to prognostic or policy purposes, without a corresponding adaptation of their structure.
+
+This is not primarily a failure of individual research or modeling skill, but a gap in methodological education. Model use is rarely treated as an explicit object of instruction, even though it determines the validity of conclusions more directly than technical sophistication.
+
+Making the relationship between question type and model structure explicit would therefore be a foundational step—preceding, not following, formal modeling techniques. Before selecting a model, the class of question must be chosen. Using a model outside its question class is not approximation; it is misuse.
+
+---
+
 **Citation (suggested):**  
 Wende, A. (2025), *Models Without Feedback: Why They Explain States but Fail at Development and Prediction*, Working note v1.0.
 https://systemic-effect/working-notes/models-without-feedback/
