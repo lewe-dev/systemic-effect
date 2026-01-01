@@ -3,12 +3,7 @@
 [About](/about)
 
 ---
-layout: post
-title: "Negative Measurement"
-subtitle: "Why Excellence Often Looks Like Nothing Happening"
-category: working-notes
-tags: [systems, excellence, structure, measurement]
----
+
 
 # Negative Measurement  
 ### Why Excellence Often Looks Like Nothing Happening
