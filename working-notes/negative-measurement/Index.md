@@ -1,3 +1,7 @@
+[Home](/) ·
+[Working notes](/working-notes/) ·
+[About](/about)
+
 ---
 layout: post
 title: "Negative Measurement"
