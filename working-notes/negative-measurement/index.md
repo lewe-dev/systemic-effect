@@ -8,7 +8,7 @@
 # Negative Measurement  
 ### Why Excellence Often Looks Like Nothing Happening
 
-**Version:** v0.1  
+**Version:** v1.0  
 **Status:** Working Note  
 **Last updated:** 2026-01-01  
 
@@ -193,7 +193,7 @@ for observation and diagnosis.
 
 Wende, A. (2026).  
 *Negative Measurement: Why Excellence Often Looks Like Nothing Happening*.  
-Working Notes, systemic-effect.org. Version 0.1.  
+Working Notes, systemic-effect.org. Version 1.0.  
 https://systemic-effect.org/working-notes/negative-measurement
 
 ---
