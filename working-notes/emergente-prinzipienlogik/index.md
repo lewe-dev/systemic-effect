@@ -8,7 +8,7 @@
 # Emergente Prinzipienlogik
 ### Why Orders Form Before They Are Understood
 
-**Version:** v0.2  
+**Version:** v0.1  
 **Status:** Working Note  
 **Last updated:** 2026-01-03
 
@@ -215,7 +215,7 @@ for structural observation.
 
 Wende, A. (2026).  
 *Emergente Prinzipienlogik: Why Orders Form Before They Are Understood*.  
-Working Notes, systemic-effect.org. Version 0.2.  
+Working Notes, systemic-effect.org. Version 0.1.  
 https://systemic-effect.org/working-notes/emergente-prinzipienlogik
 
 ---
