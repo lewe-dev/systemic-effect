@@ -144,7 +144,22 @@ Making the relationship between question type and model structure explicit would
 
 ---
 
+## Status
+
+This document is a **working note**.
+
+It is intentionally incomplete and open to refinement.
+Its purpose is not to conclude a debate,
+but to provide a stable reference point
+for methodological clarity.
+
+---
+
 **Citation (suggested):**  
 Wende, A. (2025), *Models Without Feedback: Why They Explain States but Fail at Development and Prediction*, Working note v1.0.
 https://systemic-effect.org/working-notes/models-without-feedback/
 
+---
+
+*systemic-effect.org*  
+*Working Notes*
