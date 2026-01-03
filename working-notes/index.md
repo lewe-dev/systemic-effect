@@ -11,10 +11,11 @@
 
 ## Notes 
 
-- [Models Without Feedback: Why They Explain States but Fail at Development and Prediction](models-without-feedback/)
+- **[Models Without Feedback](/working-notes/models-without-feedback/)**  
+  *Why They Explain States but Fail at Development and Prediction*
 
-- [Negative Measurement:
-Why Excellence Often Looks Like Nothing Happening](negative-measurement/)
+- **[Negative Measurement](/working-notes/negative-measurement/)**  
+  *Why Excellence Often Looks Like Nothing Happening*
 
-- [Emergente Prinzipienlogik:  
-Why Orders Form Before They Are Understood](emergente-prinzipienlogik/)
+- **[Emergente Prinzipienlogik](/working-notes/emergente-prinzipienlogik/)**  
+  *Why Orders Form Before They Are Understood*
