@@ -4,143 +4,218 @@
 
 ---
 
+
 # Models Without Feedback  
-## Why They Explain States but Fail at Development and Prediction
+### Why They Explain States but Fail at Development and Prediction
 
-*Working note · Version 1.0 · December 2025*
-
----
-
-## 1. Starting Point: What a Model Actually Does
-A scientific model is a structured representation of a selected aspect of reality. It reduces complexity by making variables, relationships, and assumptions explicit. The usefulness of a model does not depend on whether it is “realistic” in a comprehensive sense, but on whether it is suitable for a specific question.
-
-The decisive question is therefore not:  
-**Is the model true?**  
-but rather:  
-**For which tasks is the model valid—and for which is it not?**
+**Version:** v1.0  
+**Status:** Working Note  
+**Last updated:** 2025-12-29  
 
 ---
 
-## 2. State Models vs. Development Models
-Models can be broadly divided into two classes:
+## Abstract
 
-### (A) State models (static or quasi-static)
-These models describe relationships at a given point in time or under the assumption that “all else remains equal” (*ceteris paribus*). They yield statements such as:
-- “If X is higher, Y tends to be higher.”
-- “Under certain conditions, equilibrium Z is stable.”
-
-Such models can be highly useful for:
-- classification and diagnosis,
-- identifying local directions of influence,
-- comparing scenarios under fixed boundary conditions.
-
-### (B) Development models (dynamic)
-These models describe how variables change over time because today’s outcomes influence tomorrow’s conditions. They yield statements such as:
-- “If X increases, Y changes; this change feeds back into X.”
-- “Depending on feedback mechanisms and thresholds, the system can shift into different regimes.”
+This working note distinguishes between models that describe states and models
+that explain development. It argues that feedback is a minimum structural
+condition for modeling change over time. Models without feedback can explain
+relationships under fixed boundary conditions, but they fail when applied to
+questions of prediction, adaptation, or system evolution.
 
 ---
 
-## 3. Feedback as a Minimum Condition for Development
-Development means that the state of a system at time *t* influences the state at time *t + 1*. This is precisely where feedback becomes essential.
+## Starting Point
 
-**Feedback means that outputs become inputs**—directly or mediated through actors, institutions, expectations, or norms.
+A scientific model is a structured representation of selected aspects of
+reality. Its purpose is not comprehensive realism, but suitability for a
+specific class of questions.
 
-Without feedback, a model remains “single-shot”: it computes an effect, but it does not model how this effect alters the system itself.
+The decisive issue is therefore not whether a model is *true*, but:
+
+> For which tasks is the model structurally valid —  
+> and for which is it not?
+
+---
+
+## State Models and Development Models
+
+Models can be grouped into two broad classes.
+
+### State Models
+
+State models (static or quasi-static) describe relationships at a given point in
+time or under the assumption that boundary conditions remain constant
+(*ceteris paribus*).
+
+They yield statements such as:
+
+- If X is higher, Y tends to be higher.  
+- Under certain conditions, equilibrium Z is stable.
+
+Such models are well suited for:
+
+- classification and diagnosis  
+- identifying local directions of influence  
+- comparing scenarios under fixed assumptions  
+
+They explain *states*.
+
+---
+
+### Development Models
+
+Development models describe how system states change over time because current
+outcomes influence future conditions.
+
+They yield statements such as:
+
+- If X increases, Y changes — and this change feeds back into X.  
+- Depending on feedback and thresholds, the system may shift regimes.
+
+They explain *processes*.
+
+---
+
+## Feedback as a Structural Requirement
+
+Development implies that the state of a system at time *t* affects the state at
+time *t + 1*.
+
+This requires feedback.
+
+Feedback means that outputs become inputs — directly or mediated through
+actors, institutions, expectations, or norms.
+
+Without feedback, a model remains single-shot:
+it computes an effect, but not how this effect alters the system itself.
 
 Formally:
-- **Without feedback:** a fixed relation between variables → a state relation.
-- **With feedback:** variables influence each other over time → a developmental model.
 
-The second form is qualitatively different. It can represent stability, amplification, damping, delays, oscillations, and tipping points. The first cannot.
+- without feedback → fixed relations between variables → state description  
+- with feedback → variables influence each other over time → development  
+
+This distinction is qualitative, not incremental.
 
 ---
 
-## 4. Why Models Without Feedback Fail at Prediction
-A prediction does not merely state that “X is related to Y.” It claims that:
+## Why Feedback-Free Models Fail at Prediction
+
+Prediction claims more than correlation. It claims that:
 
 > If X is changed now, the system will evolve toward Y in the future.
 
-This requires the model to capture at least three elements:
+This requires at least three elements.
 
-### System reactions
-Actors adapt. Prices, behaviors, strategies, and norms respond to interventions. Without feedback, the environment remains passive—an assumption rarely justified in social, economic, or political systems.
+### System Reaction
 
-### Path dependence and endogeneity
-Many relevant variables are endogenous: they are generated by the system itself. Models without feedback implicitly treat them as exogenous, thereby removing the most prognostically important mechanisms from the model.
+In social, economic, and political systems, actors adapt.
+Prices, strategies, norms, and behaviors respond to interventions.
 
-### Regime shifts and nonlinearity
-In dynamic systems, linear extrapolation is often misleading. Systems may behave qualitatively differently once thresholds are crossed (tipping points, saturation effects, network dynamics). Feedback is the mechanism through which such phase transitions arise.
+Models without feedback implicitly assume a passive environment.
+
+---
+
+### Endogeneity and Path Dependence
+
+Many decisive variables are generated by the system itself.
+Treating them as exogenous removes precisely those mechanisms that determine
+future trajectories.
+
+---
+
+### Regime Shifts and Nonlinearity
+
+Dynamic systems often change behavior once thresholds are crossed.
+Linear extrapolation fails where tipping points, delays, or saturation effects
+dominate.
+
+Feedback is the mechanism through which such transitions arise.
+
+---
 
 As a result, feedback-free models tend to:
-- extrapolate past relationships into the future,
-- underestimate adaptation and counter-reactions,
-- misrepresent timing (delays, escalation, stabilization).
 
-They may appear highly precise while producing **spurious accuracy**.
+- extrapolate past relations  
+- underestimate adaptation and counter-reaction  
+- misrepresent timing and escalation  
 
----
-
-## 5. Why Such Models Are Still Widely Used
-If feedback is so important, why is it often omitted?
-
-### Mathematical tractability
-Feedback introduces nonlinearity, sensitivity, and complexity. Such models are rarely analytically solvable and often require simulation.
-
-### Data and identification problems
-Feedback makes causal inference harder because cause and effect are mutually dependent.
-
-### Institutional incentives
-Many academic and policy contexts reward “clean” models with simple assumptions and clear statistical significance, even if these models are weak for steering or forecasting.
-
-This is not ignorance but a trade-off:  
-**Elegance and measurability are gained—predictive power is sacrificed.**
+They may appear precise while producing spurious accuracy.
 
 ---
 
-## 6. Precise Core Claims (Methodologically Robust)
-The following statements summarize the argument in a non-polemical, defensible way:
+## Why Such Models Persist
+
+The omission of feedback is rarely ignorance. It is a trade-off.
+
+- **Mathematical tractability**  
+  Feedback introduces nonlinearity and complexity.
+
+- **Data and identification limits**  
+  Mutual causation complicates inference.
+
+- **Institutional incentives**  
+  Many environments reward clean assumptions and statistical clarity over
+  structural realism.
+
+Elegance is gained.
+Predictive capacity is sacrificed.
+
+---
+
+## Core Claims
+
+The argument can be summarized without polemics:
 
 - Models without feedback are state models.  
-- They explain relationships under stable boundary conditions, not the transformation of those boundary conditions.
+- They explain relationships under fixed boundary conditions, not their
+  transformation.  
 - Development requires feedback.  
-- Without feedback, there is no endogenous dynamics—only static dependence.
-- For prediction in dynamic systems, feedback-free models are structurally inadequate.  
-- They may approximate local effects, but they cannot capture adaptive responses, path dependence, or regime shifts.
+- Without feedback, there is no endogenous dynamics.  
+- For prediction in adaptive systems, feedback-free models are structurally
+  inadequate.  
 
-This is a **validity judgment**, not a quality judgment. Such models remain useful—but not for questions dominated by feedback effects.
+This is a **validity judgment**, not a quality judgment.
 
----
-
-## 7. A Practical Heuristic
-A simple test for whether feedback is required:
-
-> If the subjects of a model or policy respond to the model or intervention, feedback is prognostically relevant.
-
-Typical indicators:
-- learning actors (markets, voters, competitors, organizations),
-- strategic adaptation (avoidance, countermeasures),
-- expectation and norm dynamics,
-- network or scaling effects.
+Such models remain useful — but not for questions dominated by feedback effects.
 
 ---
 
-## 8. Conclusion (One-Sentence Core)
-A concise formulation suitable for citation:
+## A Practical Heuristic
 
-> **Without feedback, models explain states; with feedback, they explain development. Predictive capacity begins where a model captures the system’s reaction to itself.**
+A simple test:
+
+> If the subjects of a model respond to the model or intervention,  
+> feedback is prognostically relevant.
+
+Typical indicators include:
+
+- learning actors (markets, voters, organizations)  
+- strategic adaptation  
+- expectation and norm dynamics  
+- network or scaling effects  
 
 ---
 
-## 9. On the Use of Models
+## Core Statement
 
-In many disciplines, substantial effort is devoted to teaching how models are constructed, estimated, and formally analyzed. Far less attention is paid to how models are to be used—and, crucially, for which classes of questions they are structurally suitable.
+> Without feedback, models explain states.  
+> With feedback, they explain development.  
+> Predictive capacity begins where a system reacts to itself.
 
-As a result, the distinction between state analysis, comparative statics, development, prediction, and steering often remains implicit. Models designed to analyze states under fixed boundary conditions are then tacitly extended to prognostic or policy purposes, without a corresponding adaptation of their structure.
+---
 
-This is not primarily a failure of individual research or modeling skill, but a gap in methodological education. Model use is rarely treated as an explicit object of instruction, even though it determines the validity of conclusions more directly than technical sophistication.
+## On the Use of Models
 
-Making the relationship between question type and model structure explicit would therefore be a foundational step—preceding, not following, formal modeling techniques. Before selecting a model, the class of question must be chosen. Using a model outside its question class is not approximation; it is misuse.
+Much attention is devoted to how models are built.
+Far less to how they are *used*.
+
+As a result, models designed for state analysis are routinely applied to
+prediction or policy questions without structural adaptation.
+
+This is not a failure of modeling skill, but a gap in methodological education.
+
+Before selecting a model, the class of question must be chosen.
+Using a model outside its question class is not approximation — it is misuse.
 
 ---
 
@@ -155,9 +230,12 @@ for methodological clarity.
 
 ---
 
-**Citation (suggested):**  
-Wende, A. (2025), *Models Without Feedback: Why They Explain States but Fail at Development and Prediction*, Working note v1.0.
-https://systemic-effect.org/working-notes/models-without-feedback/
+## How to Cite
+
+Wende, A. (2025).  
+*Models Without Feedback: Why They Explain States but Fail at Development and Prediction*.  
+Working Notes, systemic-effect.org. Version 1.0.  
+https://systemic-effect.org/working-notes/models-without-feedback
 
 ---
 
