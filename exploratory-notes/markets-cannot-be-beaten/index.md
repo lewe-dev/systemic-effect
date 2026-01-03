@@ -8,7 +8,7 @@
 # On the Claim That Markets Cannot Be Beaten  
 ### Why It Is a Conditional Validity Claim, Not a Universal Constraint
 
-**Version:** v1.0  
+**Version:** v0.1  
 **Status:** Exploratory Note  
 **Last updated:** 2026-01-03  
 
@@ -204,7 +204,7 @@ but to clarify the structural assumptions that shape them.
 
 Wende, A. (2026).  
 *On the Claim That Markets Cannot Be Beaten: Why It Is a Conditional Validity Claim, Not a Universal Constraint.*  
-Exploratory Notes, systemic-effect.org. Version 1.0.  
+Exploratory Notes, systemic-effect.org. Version 0.1.  
 https://systemic-effect.org/exploratory-notes/markets-cannot-be-beaten
 
 ---
