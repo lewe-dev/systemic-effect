@@ -14,3 +14,6 @@
 
 - [Negative Measurement:
 Why Excellence Often Looks Like Nothing Happening](negative-measurement/)
+
+- [Emergente Prinzipienlogik:  
+Why Orders Form Before They Are Understood](emergente-prinzipienlogik/)
