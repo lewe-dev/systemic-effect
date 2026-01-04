@@ -1,221 +1,198 @@
-
-
-layout: default
-
-Home · Working notes · Exploratory notes · About
-
+[Home](/) ·
+[Working notes](/working-notes/) ·
+[Exploratory notes](/exploratory-notes/) ·
+[About](/about)
 
 ---
 
-On the Typing of Rules
+# On the Typing of Rules  
+### Why Scientific Rules Must Be Classified as Universal, Conditional, or Probabilistic
 
-Why Scientific Rules Must Be Classified as Universal, Conditional, or Probabilistic
-
-Version: v0.1
-Status: Exploratory Note
-Last updated: 2026-01-04
-
+**Version:** v0.1  
+**Status:** Exploratory Note  
+**Last updated:** 2026-01-04  
 
 ---
 
-Abstract
+## Abstract
 
-This exploratory note proposes a minimal logical typology for rule-like statements in science. It argues that scientific rules are frequently treated as universal despite being condition-dependent or probabilistic in structure. The note introduces a threefold distinction — universal, conditional, and probabilistic — and shows that many conceptual and empirical disputes arise from implicit misclassification rather than substantive disagreement.
+This exploratory note proposes a minimal logical typology for rule-like
+statements in science.
 
+It argues that many scientific rules are treated as universal despite being
+conditional or probabilistic in structure. The resulting ambiguity produces
+apparent counterexamples, false expectations, and conceptual disputes.
 
----
-
-Starting Point
-
-Scientific discourse is saturated with rules, laws, principles, and general statements.
-
-These statements are often presented as if they possessed universal validity. However, closer inspection reveals that many of them depend on unstated conditions or express statistical regularities rather than necessity.
-
-As with all model-based claims, the decisive question is therefore not whether a rule is true, but:
-
-> What kind of claim is being made — and under which conditions does it hold?
-
-
-
+By distinguishing between universal, conditional, and probabilistic rules,
+the note clarifies the logical status of such claims without introducing
+unnecessary theoretical complexity.
 
 ---
 
-The Problem of Implicit Universalization
+## Starting Point
 
-In practice, rule-like statements are frequently formulated without an explicit declaration of their logical status.
+Scientific discourse is saturated with rules, laws, principles, and general
+statements.
 
-Conditional validity is often compressed into universal language, and probabilistic regularities are read as deterministic constraints.
+These are often formulated as if they possessed universal validity.
+However, closer inspection shows that many of them depend on unstated
+conditions or express statistical regularities rather than necessity.
 
-This implicit universalization produces several recurring problems:
+As with all model-based claims, the decisive question is therefore not whether
+a rule is *true*, but:
 
-apparent counterexamples that are treated as refutations
+> What kind of claim is being made —  
+> and under which conditions does it hold?
 
-false expectations of necessity or inevitability
+---
 
-conceptual disputes that arise from mismatched claim types
+## The Problem of Implicit Universalization
 
+In practice, rule-like statements are frequently formulated without an
+explicit declaration of their logical status.
+
+Conditional validity is compressed into universal language,
+and probabilistic regularities are read as deterministic constraints.
+
+This implicit universalization leads to recurring problems:
+
+- apparent counterexamples treated as refutations  
+- false expectations of necessity or inevitability  
+- disputes caused by mismatched claim types  
 
 The issue is not empirical error, but structural ambiguity.
 
+---
+
+## A Minimal Typology of Rules
+
+To remove this ambiguity, a minimal and sufficient classification of rules
+can be introduced.
 
 ---
 
-A Minimal Typology of Rules
+## Universal Rules
 
-To remove this ambiguity, the note proposes a minimal and sufficient classification of rules into three types.
-
-
----
-
-1. Universal Rules
-
-Definition
 A universal rule claims exceptionless validity within a specified domain.
 
-Logical form
+It has the logical form:
 
-∀x ∈ M : P(x)
+> ∀x ∈ M : P(x)
 
-Structural properties
+Such rules admit no exceptions within their domain.
+A single counterexample invalidates the claim.
 
-no exceptions within the domain
-
-a single counterexample invalidates the claim
-
-extremely high requirements of precision and justification
-
-
-Universal rules are rare outside formal systems such as mathematics and logic.
-
+Universal rules therefore require extremely high standards of precision and
+justification and are rare outside formal systems such as mathematics and
+logic.
 
 ---
 
-2. Conditional Rules
+## Conditional Rules
 
-Definition
 A conditional rule asserts validity only under explicitly stated conditions.
 
-Logical form
+Its logical form is:
 
-∀x ∈ M : (B(x) → P(x))
+> ∀x ∈ M : (B(x) → P(x))
 
-Structural properties
+No claim is made outside the specified conditions.
+Apparent exceptions indicate unmet conditions, not rule failure.
 
-no claim is made outside the specified conditions
-
-apparent exceptions indicate unmet conditions, not rule failure
-
-commonly misrepresented as universal in practice
-
-
-Most scientific "laws" in empirical disciplines fall into this category.
-
+Most scientific “laws” in empirical disciplines fall into this category,
+despite often being presented in universal language.
 
 ---
 
-3. Probabilistic Rules
+## Probabilistic Rules
 
-Definition
-A probabilistic rule describes regularities in terms of likelihood rather than necessity.
+A probabilistic rule describes regularities in terms of likelihood rather than
+necessity.
 
-Logical form (simplified)
+In simplified form:
 
-Pr(Y | B) = p   with 0 < p < 1
+> Pr(Y | B) = p, with 0 < p < 1
 
-Structural properties
+Even when conditions are met, outcomes are not guaranteed.
+Deviations are expected and only meaningful at the statistical level.
 
-outcomes are not guaranteed even when conditions hold
-
-deviations are expected, not anomalous
-
-evaluation is meaningful only at the statistical level
-
-
-Probabilistic rules dominate fields dealing with complex, adaptive, or social systems.
-
+Probabilistic rules dominate domains involving complex, adaptive, or social
+systems.
 
 ---
 
-Logical Notation and Basic Symbols
+## Logical Notation
 
-The notation used above draws from elementary predicate logic and probability theory. It serves to clarify the type of claim being made, not to formalize empirical content.
+The notation used above draws from elementary predicate logic and probability
+theory.
 
-M: domain or class of objects
+It is intended to clarify the *type* of claim being made, not to formalize
+empirical content.
 
-x: an element of the domain
-
-x ∈ M: x belongs to M
-
-P(x): a predicate asserting a property of x
-
-B(x): a condition under which the predicate applies
-
-∀: universal quantifier (“for all”)
-
-→: implication (“if … then …”)
-
-Pr(·): probability function
-
-Pr(Y | B): probability of Y given condition B
-
-
+- **M**: domain or class of objects  
+- **x**: an element of the domain  
+- **x ∈ M**: x belongs to M  
+- **P(x)**: a predicate asserting a property of x  
+- **B(x)**: a condition under which the predicate applies  
+- **∀**: universal quantifier (“for all”)  
+- **→**: implication (“if … then …”)  
+- **Pr(·)**: probability function  
+- **Pr(Y | B)**: probability of Y given condition B  
 
 ---
 
-Typical Misclassifications
+## Typical Misclassifications
 
-Several recurrent errors arise from failing to distinguish between these rule types:
+Several recurrent errors arise from failing to distinguish between rule types:
 
-Probabilistic rules are treated as universal, leading individual cases to be misread as refutations.
-
-Conditional rules are stated without their conditions, creating an illusion of general necessity.
-
-Universal validity is claimed without a clearly defined domain, leaving implicit restrictions unexamined.
-
+- probabilistic rules are treated as universal  
+- conditional rules are stated without their conditions  
+- universal validity is claimed without a clearly defined domain  
 
 These errors are structural rather than empirical.
 
+---
+
+## Methodological Implication
+
+A minimal meta-rule follows:
+
+> Rule-like statements should be explicitly identified as  
+> **universal**, **conditional**, or **probabilistic**.
+
+This classification clarifies logical status without restricting substantive
+inquiry.
 
 ---
 
-Methodological Implication
+## Core Claim
 
-A Minimal Meta-Rule
+Many disputes about whether a rule “holds” are, in fact, disputes about
+what kind of rule is being claimed.
 
-Rule-like statements should be explicitly identified as universal, conditional, or probabilistic.
-
-This classification clarifies their logical status without restricting substantive inquiry. It functions as a minimal standard of methodological transparency.
-
-
----
-
-Core Claim
-
-Most scientific disputes about “whether a rule holds” are, in fact, disputes about what kind of rule is being claimed.
-
-Making the rule type explicit resolves many apparent contradictions without requiring new data.
-
+Making the rule type explicit resolves apparent contradictions without
+requiring new data.
 
 ---
 
-Status
+## Status
 
-This document is an exploratory note.
+This document is an **exploratory note**.
 
-It is intentionally minimal and open-ended. Its purpose is not to close debates, but to clarify the logical structure of rule-like claims across disciplines.
-
+It is intentionally minimal and open-ended.
+Its purpose is to clarify logical structure, not to settle disciplinary
+debates.
 
 ---
 
-How to Cite
+## How to Cite
 
-Wende, A. (2026).
-On the Typing of Rules: Why Scientific Rules Must Be Classified as Universal, Conditional, or Probabilistic.
-Exploratory Notes, systemic-effect.org. Version 0.1.
+Wende, A. (2026).  
+*On the Typing of Rules: Why Scientific Rules Must Be Classified as Universal, Conditional, or Probabilistic.*  
+Exploratory Notes, systemic-effect.org. Version 0.1.  
 https://systemic-effect.org/exploratory-notes/typing-of-rules
 
-
 ---
 
-systemic-effect.org
-Exploratory Notes
+*systemic-effect.org*  
+*Exploratory Notes*
