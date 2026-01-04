@@ -5,188 +5,173 @@
 
 ---
 
-# On the Claim That Markets Cannot Be Beaten  
-### Why It Is a Conditional Validity Claim, Not a Universal Constraint
+# On the Typing of Rules  
+### Why Scientific Rules Must Be Classified as Universal, Conditional, or Probabilistic
 
 **Version:** v0.1  
 **Status:** Exploratory Note  
-**Last updated:** 2026-01-03  
+**Last updated:** 2026-01-04  
 
 ---
 
 ## Abstract
 
-This exploratory note examines the widespread claim that financial markets
-cannot be beaten. It argues that the statement is not false, but structurally
-conditional. Its apparent universality arises from a set of implicit
-assumptions about participation, constraints, and evaluation regimes.
-When these assumptions are made explicit, the claim is revealed as a validity
-judgment tied to a specific class of actors and questions, rather than a
-general law of markets.
+This exploratory note proposes a minimal logical typology for rule-like
+statements in science.
+
+It argues that many scientific rules are treated as universal despite being
+conditional or probabilistic in structure. The resulting ambiguity produces
+apparent counterexamples, false expectations, and conceptual disputes.
+
+By distinguishing between universal, conditional, and probabilistic rules,
+the note clarifies the logical status of such claims without introducing
+unnecessary theoretical complexity.
 
 ---
 
 ## Starting Point
 
-The statement *“markets cannot be beaten”* is frequently treated as a
-universal proposition.
+Scientific discourse is saturated with rules, laws, principles, and general
+statements.
 
-It is commonly cited as a general limitation of individual decision-making,
-rather than as a result derived under specific structural conditions.
+These are often formulated as if they possessed universal validity.
+However, closer inspection shows that many of them depend on unstated
+conditions or express statistical regularities rather than necessity.
 
-As with all model-based claims, the decisive issue is therefore not whether
-the statement is *true*, but:
+As with all model-based claims, the decisive question is therefore not whether
+a rule is *true*, but:
 
-> Under which conditions is the claim structurally valid —  
-> and under which does it lose explanatory meaning?
-
----
-
-## The Standard Interpretation
-
-In its standard interpretation, the claim implies that:
-
-- systematic outperformance is impossible  
-- deviations from market returns are attributable to chance  
-- active decision-making is dominated by costs and errors  
-
-This interpretation is typically supported by empirical comparisons between
-actively managed portfolios and broad market indices.
-
-What is rarely made explicit is that these comparisons operate under a
-specific and narrow set of structural assumptions.
+> What kind of claim is being made —  
+> and under which conditions does it hold?
 
 ---
 
-## Implicit Structural Assumptions
+## The Problem of Implicit Universalization
 
-The claim that markets cannot be beaten typically presupposes that actors:
+In practice, rule-like statements are frequently formulated without an
+explicit declaration of their logical status.
 
-- remain continuously invested  
-- are evaluated relative to a benchmark  
-- operate under capital scale constraints  
-- incur transaction and management costs  
-- face reporting or time pressure  
-- aim for persistent, period-by-period outperformance  
+Conditional validity is compressed into universal language,
+and probabilistic regularities are read as deterministic constraints.
 
-These assumptions are rarely stated explicitly,
-but they define the domain in which the claim holds.
+This implicit universalization leads to recurring problems:
 
-They describe institutional, continuously deployed capital —
-not unconstrained decision-makers.
+- apparent counterexamples treated as refutations  
+- false expectations of necessity or inevitability  
+- disputes caused by mismatched claim types  
 
----
-
-## What the Claim Actually Describes
-
-Under the above conditions, the claim is largely correct.
-
-When actors must remain exposed at all times
-and are evaluated continuously relative to a benchmark,
-relative outperformance becomes statistically unlikely.
-
-In this context, the market is not merely a price system.
-It is an adaptive aggregate of similarly constrained participants.
-
-Beating such a system persistently is structurally difficult.
+The issue is not empirical error, but structural ambiguity.
 
 ---
 
-## Where the Generalization Fails
+## A Minimal Typology of Rules
 
-Problems arise when this conditional result is treated as a universal law.
-
-Once one or more of the implicit assumptions are relaxed,
-the structure of the problem changes.
-
-For example, when an actor:
-
-- is not required to remain invested  
-- can hold cash without penalty  
-- acts infrequently  
-- concentrates only on extreme mispricing  
-- accepts long periods of inactivity  
-
-the reference model no longer applies.
-
-The question is no longer whether the market can be beaten continuously,
-but whether selective engagement with market errors is possible.
-
-This is a different class of question.
+To remove this ambiguity, a minimal and sufficient classification of rules
+can be introduced.
 
 ---
 
-## Time and Optionality
+## Universal Rules
 
-A critical but often overlooked variable is time.
+A universal rule claims exceptionless validity within a specified domain.
 
-Most formulations implicitly assume symmetric exposure to time:
-being invested is treated as the default state.
+It has the logical form:
 
-If time is instead treated as an option —
-something that can be used or withheld —
-the structural logic changes.
+> ∀x ∈ M : P(x)
 
-Waiting becomes a variable, not a failure.
+Such rules admit no exceptions within their domain.
+A single counterexample invalidates the claim.
 
-Outperformance, in this context, is not generated by superior prediction,
-but by selective participation.
-
----
-
-## Apparent Counterexamples
-
-Actors or entities that have historically outperformed the market
-are often framed as:
-
-- exceptional  
-- non-reproducible  
-- statistical outliers  
-
-This framing avoids questioning the underlying assumptions of the claim.
-
-An alternative interpretation is that such cases operate under
-different structural conditions, not different levels of skill.
-
-Their behavior does not violate the model;
-it falls outside its domain.
+Universal rules therefore require extremely high standards of precision and
+justification and are rare outside formal systems such as mathematics and
+logic.
 
 ---
 
-## Core Claims
+## Conditional Rules
 
-The argument can be summarized without polemics:
+A conditional rule asserts validity only under explicitly stated conditions.
 
-- The claim that markets cannot be beaten is condition-dependent.  
-- Its validity relies on implicit structural assumptions.  
-- These assumptions describe institutional investors, not all market actors.  
-- When the assumptions are relaxed, the claim loses universality.  
-- This is a **validity judgment**, not a performance claim.  
+Its logical form is:
 
-The statement remains useful —
-but only within its proper structural scope.
+> ∀x ∈ M : (B(x) → P(x))
 
----
+No claim is made outside the specified conditions.
+Apparent exceptions indicate unmet conditions, not rule failure.
 
-## A Practical Heuristic
-
-A simple test:
-
-> If an actor is required to remain invested and continuously evaluated,  
-> the claim is likely applicable.
-
-> If an actor can remain inactive, hold cash, and act only under exceptional
-> conditions,  
-> the claim requires reformulation.
+Most scientific “laws” in empirical disciplines fall into this category,
+despite often being presented in universal language.
 
 ---
 
-## Core Statement
+## Probabilistic Rules
 
-> Markets cannot be beaten under continuous participation and constraint.  
->  
-> When participation itself is optional,  
-> the structure of the problem changes.
+A probabilistic rule describes regularities in terms of likelihood rather than
+necessity.
+
+In simplified form:
+
+> Pr(Y | B) = p, with 0 < p < 1
+
+Even when conditions are met, outcomes are not guaranteed.
+Deviations are expected and only meaningful at the statistical level.
+
+Probabilistic rules dominate domains involving complex, adaptive, or social
+systems.
+
+---
+
+## Logical Notation
+
+The notation used above draws from elementary predicate logic and probability
+theory.
+
+It is intended to clarify the *type* of claim being made, not to formalize
+empirical content.
+
+- **M**: domain or class of objects  
+- **x**: an element of the domain  
+- **x ∈ M**: x belongs to M  
+- **P(x)**: a predicate asserting a property of x  
+- **B(x)**: a condition under which the predicate applies  
+- **∀**: universal quantifier (“for all”)  
+- **→**: implication (“if … then …”)  
+- **Pr(·)**: probability function  
+- **Pr(Y | B)**: probability of Y given condition B  
+
+---
+
+## Typical Misclassifications
+
+Several recurrent errors arise from failing to distinguish between rule types:
+
+- probabilistic rules are treated as universal  
+- conditional rules are stated without their conditions  
+- universal validity is claimed without a clearly defined domain  
+
+These errors are structural rather than empirical.
+
+---
+
+## Methodological Implication
+
+A minimal meta-rule follows:
+
+> Rule-like statements should be explicitly identified as  
+> **universal**, **conditional**, or **probabilistic**.
+
+This classification clarifies logical status without restricting substantive
+inquiry.
+
+---
+
+## Core Claim
+
+Many disputes about whether a rule “holds” are, in fact, disputes about
+what kind of rule is being claimed.
+
+Making the rule type explicit resolves apparent contradictions without
+requiring new data.
 
 ---
 
@@ -194,18 +179,18 @@ A simple test:
 
 This document is an **exploratory note**.
 
-It is intentionally incomplete and open to refinement.
-Its purpose is not to conclude debates about market efficiency,
-but to clarify the structural assumptions that shape them.
+It is intentionally minimal and open-ended.
+Its purpose is to clarify logical structure, not to settle disciplinary
+debates.
 
 ---
 
 ## How to Cite
 
 Wende, A. (2026).  
-*On the Claim That Markets Cannot Be Beaten: Why It Is a Conditional Validity Claim, Not a Universal Constraint.*  
+*On the Typing of Rules: Why Scientific Rules Must Be Classified as Universal, Conditional, or Probabilistic.*  
 Exploratory Notes, systemic-effect.org. Version 0.1.  
-https://systemic-effect.org/exploratory-notes/markets-cannot-be-beaten
+https://systemic-effect.org/exploratory-notes/typing-of-rules
 
 ---
 
