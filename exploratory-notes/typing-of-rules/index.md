@@ -111,7 +111,7 @@ necessity.
 
 In simplified form:
 
-> Pr(Y | B) = p, with 0 < p < 1
+> `Pr(Y | B) = p, with 0 < p < 1`
 
 Even when conditions are met, outcomes are not guaranteed.
 Deviations are expected and only meaningful at the statistical level.
@@ -137,7 +137,7 @@ empirical content.
 - **∀**: universal quantifier (“for all”)  
 - **→**: implication (“if … then …”)  
 - **Pr(·)**: probability function  
-- **Pr(Y | B)**: probability of Y given condition B  
+- **`Pr(Y | B)`**: probability of Y given condition B  
 
 ---
 
