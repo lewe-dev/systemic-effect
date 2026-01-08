@@ -111,7 +111,7 @@ necessity.
 
 In simplified form:
 
-> `Pr(Y | B) = p, with 0 < p < 1`
+> Pr(Y \| B) = p, with 0 < p < 1
 
 Even when conditions are met, outcomes are not guaranteed.
 Deviations are expected and only meaningful at the statistical level.
