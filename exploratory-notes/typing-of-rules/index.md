@@ -137,7 +137,7 @@ empirical content.
 - **∀**: universal quantifier (“for all”)  
 - **→**: implication (“if … then …”)  
 - **Pr(·)**: probability function  
-- **`Pr(Y | B)`**: probability of Y given condition B  
+- **Pr(Y \| B)**: probability of Y given condition B  
 
 ---
 
