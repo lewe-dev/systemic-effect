@@ -1,3 +1,10 @@
+[Home](/) ·
+[Working notes](/working-notes/) ·
+[Exploratory notes](/exploratory-notes/) ·
+[About](/about)
+
+---
+
 # On the Typing of Rules
 
 This section contains exploratory notes on the logical classification
