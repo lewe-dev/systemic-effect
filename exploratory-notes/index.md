@@ -11,7 +11,7 @@
 
 ## Notes
 
--**[On the Typing of Models](./typing-of-models/v0.1.md)**
+- **[On the Typing of Models](./typing-of-models/v0.1.md)**
 *Orientation, Explanation, and Application*
 
 - **[On the Typing of Rules](/exploratory-notes/typing-of-rules)**  
