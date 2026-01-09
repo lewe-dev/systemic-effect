@@ -11,11 +11,11 @@
 
 ## Notes
 
-- **[On the Typing of Models](./typing-of-models/v0.1.md)**
+- **[On the Typing of Models](./typing-of-models/v0.1.md)**. 
  *Orientation, Explanation, and Application*
 
 - **[On the Typing of Rules](/exploratory-notes/typing-of-rules)**  
- *Why Scientific Rules Must Be Classified as Universal, , or Probabilistic*
+ *Why Scientific Rules Must Be Classified as Universal, Conditional, or Probabilistic*
 
 - **[On the Claim That Markets Cannot Be Beaten](/exploratory-notes/markets-cannot-be-beaten)**  
   *Why It Is a Conditional Validity Claim, Not a Universal Constraint*
