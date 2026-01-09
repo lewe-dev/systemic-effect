@@ -25,11 +25,11 @@ not replacement or supersession.
 
 - **v0.1.1** (2026-01-09)  
   Clarifications and minor refinements.  
-  → [`v0.1.1`](./versions/v0.1.1.md)
+  → [`v0.1.1`](./v0.1.1.md)
 
 - **v0.1** (2026-01-04)  
   Initial formulation of the universal / conditional / probabilistic typology.  
-  → [`v0.1`](./versions/v0.1.md)
+  → [`v0.1`](./v0.1.md)
 
 ---
 
