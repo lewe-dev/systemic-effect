@@ -17,5 +17,8 @@
 - **[On the Typing of Rules](/exploratory-notes/typing-of-rules)**  
  *Why Scientific Rules Must Be Classified as Universal, Conditional, or Probabilistic*
 
+- **[An Explanatory Model of Direction, Incentives, Identity, and Order](/exploratory-notes/direction-incentives-identity-order/v0.1)**  
+  *Why Sustainable Decisions Must Be Read Backwards*
+
 - **[On the Claim That Markets Cannot Be Beaten](/exploratory-notes/markets-cannot-be-beaten)**  
   *Why It Is a Conditional Validity Claim, Not a Universal Constraint*
