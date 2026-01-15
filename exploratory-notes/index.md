@@ -23,8 +23,8 @@
 - **[Integrated Knowledge](/exploratory-notes/integrated-knowledge/v0.1)**  
   *Why the Best Knowledge Disappears — Without Being Lost*  
 
-- **[Why Prevention Is Not Education](/exploratory-notes/prevention-is-not-education/v0.1)**  
-  *Why Structural Change Cannot Be Replaced by Information*
+- **[On Why Prevention Must Be More Than Education](/exploratory-notes/prevention-is-not-education/v0.1)**  
+  *Why Awareness Alone Cannot Prevent Systemic Failure*
   
 - **[On the Claim That Markets Cannot Be Beaten](/exploratory-notes/markets-cannot-be-beaten)**  
   *Why It Is a Conditional Validity Claim, Not a Universal Constraint*
