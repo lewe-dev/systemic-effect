@@ -20,6 +20,9 @@
 - **[An Explanatory Model of Direction, Incentives, Identity, and Order](/exploratory-notes/direction-incentives-identity-order/v0.1)**  
   *Why Sustainable Decisions Must Be Read Backwards*
 
+- **[Directed Freedom as a Leadership Model](/exploratory-notes/directed-freedom/v0.1)**  
+  *Why Direction Must Be Fixed While Paths Remain Open*
+
 - **[Integrated Knowledge](/exploratory-notes/integrated-knowledge/v0.1)**  
   *Why the Best Knowledge Disappears — Without Being Lost*  
 
