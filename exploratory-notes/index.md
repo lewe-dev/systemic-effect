@@ -23,6 +23,9 @@
 - **[Directed Freedom as a Leadership Model](/exploratory-notes/directed-freedom/v0.1)**  
   *Why Direction Must Be Fixed While Paths Remain Open*
 
+- **[Proportional Response as a System Principle](/exploratory-notes/proportional-response/v0.1)**  
+  *Why Small Problems Persist When Solutions Are Not Proportional*
+
 - **[Integrated Knowledge](/exploratory-notes/integrated-knowledge/v0.1)**  
   *Why the Best Knowledge Disappears — Without Being Lost*  
 
