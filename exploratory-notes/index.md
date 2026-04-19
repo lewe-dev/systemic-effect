@@ -17,6 +17,9 @@
 - **[On North Star and Plateau Goals](/exploratory-notes/north-star-and-plateau-goals/v0.1)**  
   *Orientation Through Direction and Completion*
 
+- **[Why the Most Expensive Mistakes Are Orientation Errors](/exploratory-notes/orientation-errors/v0.1)**  
+  *On the Structural Cost of Aiming at the Wrong Things*
+
 - **[On the Typing of Rules](/exploratory-notes/typing-of-rules)**  
  *Why Scientific Rules Must Be Classified as Universal, Conditional, or Probabilistic*
 
