@@ -14,6 +14,9 @@
 - **[On the Typing of Models](./typing-of-models/v0.1.md)**  
  *Orientation, Explanation, and Application*
 
+- **[On North Star and Plateau Goals](/exploratory-notes/north-star-and-plateau-goals/v0.1)**  
+  *Orientation Through Direction and Completion*
+
 - **[On the Typing of Rules](/exploratory-notes/typing-of-rules)**  
  *Why Scientific Rules Must Be Classified as Universal, Conditional, or Probabilistic*
 
