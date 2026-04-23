@@ -12,6 +12,8 @@ This site collects independent notes on systems, conditions, and effects.
 
 The focus is analytical, not prescriptive.
 
+**This framework is designed to be corrected by reality, not defended against it.**
+
 This site is maintained by Alexander Wende.
 
 ---
