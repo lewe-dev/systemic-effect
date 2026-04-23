@@ -20,7 +20,7 @@
 - **[Why the Most Expensive Mistakes Are Orientation Errors](/exploratory-notes/orientation-errors/v0.1)**  
   *On the Structural Cost of Aiming at the Wrong Things*
 
-- **[The Mental Meter](/exploratory-notes/mental-meter/v0.1)**  
+- **[The Mental Meter](/exploratory-notes/mental-meter/index.md)**  
   *A Calibration Framework for Judgment, Expectation, and Strategic Reality*
 
 - **[On the Typing of Rules](/exploratory-notes/typing-of-rules)**  
