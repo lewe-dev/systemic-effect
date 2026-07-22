@@ -7,31 +7,36 @@
 
 # The Mental Meter
 
-This section contains exploratory notes on the calibration of judgment,
-expectation fidelity, and strategic decision-making under uncertainty.
+The Mental Meter is an exploratory framework for calibrating judgment against reality.
 
-The Mental Meter is not a theory of intelligence or morality.
+Rather than asking whether a decision ultimately succeeds, it asks whether the expectations that justified the decision were sufficiently accountable to reality before action was taken.
 
-It is a reference framework for testing whether expectations are sufficiently
-calibrated to justify action.
+The framework focuses on expectation fidelity, self-correction, and the continuous calibration of judgment under uncertainty.
 
 The notes are intentionally versioned.
 
-Each version represents a stable thinking state at a specific point in time.
+Each version represents a stable stage in the development of the framework.
 
-Older versions are **not deprecated** unless explicitly stated.
+Earlier versions are **not deprecated** unless explicitly stated.
 
-They remain valid within their original context and may be cited independently.
-
-The purpose of this structure is transparency of conceptual development,
-not replacement or supersession.
+They remain citable as historical development of the framework.
 
 ---
 
-## Available versions
+# Available Versions
+
+## Current
+
+- **v0.3** (2026-07-21) *(Current)*  
+  Introduces the relationship between expectations and underlying mental models, clarifies the distinction between calibration, decisions, and action, expands model revision as the basis of self-correction, and further refines Calibration Drift.  
+  → [`v0.3`](./v0.3.md)
+
+---
+
+## Previous Versions
 
 - **v0.2** (2026-04-23)  
-  Stronger distinction between intelligence and calibration, explicit intersubjective verification, predictive accuracy emphasized as primary hard test, self-correction speed added, and stronger formalization of the Calibration Quality Standard.  
+  Stronger distinction between intelligence and calibration, explicit intersubjective verification, predictive accuracy emphasized as the primary hard test, self-correction speed introduced, and stronger formalization of the Calibration Quality Standard.  
   → [`v0.2`](./v0.2.md)
 
 - **v0.1** (2026-04-19)  
@@ -40,20 +45,25 @@ not replacement or supersession.
 
 ---
 
-## Scope
+# Scope
 
-This note addresses the **structural calibration of judgment**
-(i.e. whether goals, means, costs, time horizons, and expected outcomes
-are sufficiently aligned with reality).
+The Mental Meter addresses the structural calibration of judgment.
 
-It focuses on:
+It evaluates whether expectations regarding goals, means, costs, time horizons, and expected outcomes are sufficiently aligned with reality before action is taken.
 
-- expectation fidelity  
-- strategic decision quality  
-- calibration under uncertainty  
-- pre-outcome evaluation of decisions  
+The framework currently focuses on:
+
+- expectation fidelity
+- judgment calibration
+- self-correction
+- strategic decision quality
+- calibration under uncertainty
+- pre-outcome evaluation
 - individual, organizational, and state-level judgment systems
 
-A complementary future note may address the broader problem of
-**systemic calibration under complexity**
-(multi-scale systems, institutional calibration, and civilization-level decision structures).
+Future notes are expected to expand the framework toward:
+
+- calibration under complexity
+- multi-scale systems
+- institutional calibration
+- civilization-level decision structures
