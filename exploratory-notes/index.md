@@ -20,6 +20,9 @@
 - **[Why the Most Expensive Mistakes Are Orientation Errors](/exploratory-notes/orientation-errors/v0.1)**  
   *On the Structural Cost of Aiming at the Wrong Things*
 
+- **[Meta-Questioning](/exploratory-notes/meta-questioning)**  
+  *On the Productive Expansion and Constraint of Frames*
+
 - **[The Mental Meter](/exploratory-notes/mental-meter)**  
   *A Calibration Framework for Judgment, Expectation, and Strategic Reality*
 
