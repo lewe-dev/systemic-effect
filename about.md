@@ -5,15 +5,15 @@
 
 ---
 
-
 # About
 
 This site collects independent notes on systems, conditions, and effects.
 
-The focus is analytical, not prescriptive.
+Its purpose is analytical rather than prescriptive.
 
-This framework is designed to be corrected by reality, not defended against it.  
-Versioning exists to preserve that accountability.
+The framework is designed to be corrected by reality rather than defended against it. Versioning exists to preserve that accountability.
+
+The goal is not to publish only finished ideas, but to make the process by which stable ideas emerge transparent.
 
 This site is maintained by Alexander Wende.
 
@@ -23,20 +23,16 @@ This site is maintained by Alexander Wende.
 
 Working Notes are **stable analytical references**.
 
-They articulate structural distinctions, clarify concepts,
-and describe constraints that remain valid across contexts.
+They describe structural distinctions, conceptual tools, or analytical constraints that are considered sufficiently stable for long-term reference.
 
-A text qualifies as a Working Note only if its core claim:
+A Working Note aims to:
 
-- remains valid under changes of context and perspective  
-- is independent of current events  
-- does not require ongoing revision  
-- can function as a long-term reference  
+- remain valid across changing contexts and perspectives
+- be independent of current events
+- require no continuous revision
+- function as a long-term analytical reference
 
 Working Notes are intentionally few.
-
-They are not conclusions or instructions,
-but **points of stability** within a larger thinking space.
 
 ---
 
@@ -44,33 +40,42 @@ but **points of stability** within a larger thinking space.
 
 Exploratory Notes document **thinking in motion**.
 
-They contain partial ideas, tentative distinctions,
-speculative connections, or unfinished lines of reasoning
-that are not yet stable enough to function as references.
+They contain developing ideas, tentative distinctions, conceptual experiments, or unresolved questions that have not yet reached a stable form.
 
 Exploratory Notes may:
 
-- change  
-- contradict each other  
-- be merged or removed  
-- remain unresolved  
+- change
+- contradict each other
+- be merged or removed
+- remain unresolved
 
-They are published to support exploration,
-not to establish positions.
+They exist to support exploration rather than establish reference points.
 
 ---
 
 ## Versioning
 
-Version numbers express **stability**, not progress.
+Version numbers express **conceptual stability**, not progress.
 
-- **v1.0** marks a text as structurally stable and referential.  
-- Versions below 1.0 are considered exploratory by definition.  
+### Major versions
 
-There are no incremental minor versions (e.g. 1.1, 1.2).
+A major version (v1.0, v2.0, ...) marks a new level of conceptual stability.
 
-A new version is assigned only when a text reaches
-a new level of conceptual stability.
+Major versions are assigned only when the underlying analytical structure has changed sufficiently to justify a new stable reference.
+
+### Minor versions
+
+Minor versions (e.g. v1.0.1, v1.0.2) document revisions that do **not** change the conceptual status of a text.
+
+Typical examples include:
+
+- clarification of wording
+- improved structure
+- updated terminology
+- note classification
+- formatting and editorial revisions
+
+Versions below **1.0** are considered exploratory by definition.
 
 ---
 
@@ -78,11 +83,9 @@ a new level of conceptual stability.
 
 Texts on this site may be read, cited, adapted, or extended.
 
-They are provided as analytical material,
-not as ready-to-use solutions.
+They are provided as analytical material rather than ready-to-use solutions.
 
-Their applicability depends on interpretation
-and context-specific translation.
+Their applicability depends on interpretation and context.
 
 ---
 
@@ -90,8 +93,7 @@ and context-specific translation.
 
 This site does not aim to be comprehensive, current, or complete.
 
-Its purpose is to provide a small number of stable reference points
-and a visible space for ongoing exploration.
+Its purpose is to provide a small number of stable analytical reference points while making the development of ideas visible.
 
 ---
 
