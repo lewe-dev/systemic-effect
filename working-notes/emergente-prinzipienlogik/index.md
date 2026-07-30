@@ -20,7 +20,7 @@ Major versions indicate a new level of conceptual stability.
 - **v1.0.1** (2026-07-31)  
   Updated to the current note methodology and structure.  
   No conceptual changes.  
-  → [`v1.0.1`](./v1.0.1.md)
+  → [`v1.0.1`](./v1.0.1)
 
 ---
 
