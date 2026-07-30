@@ -26,7 +26,7 @@ Major versions indicate a new level of conceptual stability.
 
 ## Previous versions
 
-- **v1.0** (2025-12-14)  
+- **v1.0** (2026-01-03)  
   Initial publication.
 
   This version predates the current distinction between Working Notes and Exploratory Notes. Its classification reflects the methodology in use at the time of publication.
