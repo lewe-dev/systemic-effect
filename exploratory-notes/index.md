@@ -11,8 +11,8 @@
 
 ## Notes
 
-- **[On the Typing of Models](./typing-of-models/v0.1.md)**  
- *Orientation, Explanation, and Application*
+- **[On the Typing of Models](./typing-of-models/index.md)**  
+ *Orientation, Explanation, Application and Meta Models*
 
 - **[On North Star and Plateau Goals](/exploratory-notes/north-star-and-plateau-goals/v0.1)**  
   *Orientation Through Direction and Completion*
