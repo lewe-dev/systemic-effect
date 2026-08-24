@@ -81,7 +81,7 @@ The map describes the current structure of the collection. It does not define wh
 
 A framework for examining whether expectations are sufficiently calibrated before acting.
 
-### [Orientation Errors](/exploratory-notes/orientation-errors/index.md)
+### [Orientation Errors](/exploratory-notes/orientation-errors/v0.1.md)
 
 Why good execution can still produce poor outcomes when optimization is pointed in the wrong direction.
 
