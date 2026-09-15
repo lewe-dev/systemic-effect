@@ -14,7 +14,7 @@
 - **[On the Typing of Models](./typing-of-models/index.md)**  
  *Orientation, Explanation, Application and Meta Models*
 
-- **[How to Model a Model](/exploratory-notes/how-to-model-a-model/index.md)**  
+- **[How to Model a Model](/exploratory-notes/how-to-model-a-model/)**  
   *Building Useful Representations of Reality*
 
 - **[On North Star and Plateau Goals](/exploratory-notes/north-star-and-plateau-goals/v0.1)**  
