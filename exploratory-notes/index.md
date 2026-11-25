@@ -20,6 +20,9 @@
 - **[On North Star and Plateau Goals](/exploratory-notes/north-star-and-plateau-goals/v0.1)**  
   *Orientation Through Direction and Completion*
 
+- **[Closing: States and Transitions](/exploratory-notes/closing/)**  
+  *A Practical Method for Shaping the States We Leave Behind*
+
 - **[Why the Most Expensive Mistakes Are Orientation Errors](/exploratory-notes/orientation-errors/v0.1)**  
   *On the Structural Cost of Aiming at the Wrong Things*
 
